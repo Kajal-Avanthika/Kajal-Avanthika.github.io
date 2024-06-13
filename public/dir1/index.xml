@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dir1s on Electronika</title>
+    <link>https://Kajal-Avanthika.github.io/dir1/</link>
+    <description>Recent content in Dir1s on Electronika</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 08 Jun 2024 22:43:58 +0530</lastBuildDate>
+    <atom:link href="https://Kajal-Avanthika.github.io/dir1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Getting started with Raspberry Pi</title>
+      <link>https://Kajal-Avanthika.github.io/dir1/c/</link>
+      <pubDate>Sat, 08 Jun 2024 22:43:58 +0530</pubDate>
+      <guid>https://Kajal-Avanthika.github.io/dir1/c/</guid>
+      <description>Raspberry Pi Raspberry Pi is a credit-card-sized single-board computer designed for educational and DIY purposes. Raspberry Pi 3&#xA;Hey Friends! Electronic experts always strive to develop new electronic devices that meet the needs and requirements of the customers. Technology has been evolved remarkably well where devices are becoming compact and composed. Using old conventional ways to develop electronic devices are becoming obsolete that occupied more weight and space, turned out to be expensive and capable of doing fewer number of operations.</description>
+    </item>
+    <item>
+      <title>Arduino board hands on tutorial</title>
+      <link>https://Kajal-Avanthika.github.io/dir1/b/</link>
+      <pubDate>Sat, 08 Jun 2024 22:39:38 +0530</pubDate>
+      <guid>https://Kajal-Avanthika.github.io/dir1/b/</guid>
+      <description>Open-source electronic prototyping platform enabling users to create interactive electronic objects.&#xA;A classic Arduino board&#xA;Image courtesy: ARDUINO&#xA;Arduino consists of both a physical programmable circuit board (often referred to as a microcontroller) and a piece of software, or IDE (Integrated Development Environment) that runs on your computer, used to write and upload computer code to the physical board.&#xA;The Arduino platform has become quite popular with people just starting out with electronics, and for good reason.</description>
+    </item>
+    <item>
+      <title>Microprocessors</title>
+      <link>https://Kajal-Avanthika.github.io/dir1/a/</link>
+      <pubDate>Sat, 08 Jun 2024 22:22:35 +0530</pubDate>
+      <guid>https://Kajal-Avanthika.github.io/dir1/a/</guid>
+      <description>An article about microprocessors What is Microprocessor? A Microprocessor is an important part of a computer architecture without which you will not be able to perform anything on your computer. It is a programmable device that takes in input performs some arithmetic and logical operations over it and produces the desired output. In simple words, a Microprocessor is a digital device on a chip that can fetch instructions from memory, decode and execute them, and give results.</description>
+    </item>
+  </channel>
+</rss>
