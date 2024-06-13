@@ -3,6 +3,7 @@ title = 'Arduino board hands on tutorial'
 date = 2024-06-08T22:39:38+05:30
 draft = false
 author='Kajal'
+tags=['Arduino','DIY']
 +++
 
 Open-source electronic prototyping platform enabling users to create interactive electronic objects.
