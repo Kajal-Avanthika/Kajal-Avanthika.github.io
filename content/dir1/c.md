@@ -2,6 +2,7 @@
 title = 'Getting started with Raspberry Pi'
 date = 2024-06-08T22:43:58+05:30
 draft = false
+tags=['Techy','DIY']
 +++
 ## Raspberry Pi
 
