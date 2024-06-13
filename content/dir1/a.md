@@ -3,6 +3,7 @@ title = 'Microprocessors'
 date = 2024-06-08T22:22:35+05:30
 draft = false
 language='English'
+tags=['Techy','Novice']
 +++
 An article about microprocessors
 What is Microprocessor?
